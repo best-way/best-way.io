@@ -1,0 +1,2 @@
+# best-way.io
+myblog
